@@ -3,7 +3,7 @@
 """Curso 2018-2019"""
 import numpy
 import random
-from scipy.stats import binom
+from scipy import stats
 from time import time
 import itertools
 import os
