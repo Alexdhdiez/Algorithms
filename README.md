@@ -1,2 +1,3 @@
-# Algorithms
-This is a sudoku solver using a genetic algorithm, made with python.
+# Sudoku Genetic Algorithm
+
+A genetic algorithm to solve sudokus.
